@@ -4,7 +4,7 @@ My name is Chidera Alexander Nwokoye
 
 🔭 I’m currently working in https://snappy-fix.com
 
-😄 I’m open for a FrontEnd, BackEnd and Mobile Developer roles
+😄 I’m open for a FrontEnd and BackEnd roles
 
 ## 📫 How to reach me:
 
