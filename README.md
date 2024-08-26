@@ -1,10 +1,10 @@
 ## Hi there 👋
 
+My name is Chidera Alexander Nwokoye
+
 🔭 I’m currently working in https://snappy-fix.com
 
 😄 I’m open for a FrontEnd, BackEnd and Mobile Developer roles
-
-⚡ Do you know this? : I am a chemical engineer!
 
 ## 📫 How to reach me:
 
