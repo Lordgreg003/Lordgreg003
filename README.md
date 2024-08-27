@@ -6,9 +6,24 @@ My name is Chidera Alexander Nwokoye
 
 😄 I’m open for a FrontEnd and BackEnd roles
 
+- 🧠 I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
+
+- 🤝 I'm open to collaborating on backend and frontend projects
+
 ## 📫 How to reach me:
 
+- ✉️ You can contact me at [chideranwokoye555@gmail.com](mailto:chideranwokoye555@gmail.com)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/lordgreg001)
+
+<a href="https://www.github.com/Lordgreg003" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Lordgreg003?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+
+## 🏆 Github Trophy
+
+<a href="https://Lordgreg003.vercel.app">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Lordgreg003&theme=gruvbox">
+</a>
 
 ## 💼 Skills
 
@@ -41,11 +56,17 @@ My name is Chidera Alexander Nwokoye
 <br>
 <br>
 
+## 📊 Profile views
+
+![](https://komarev.com/ghpvc/?username=Lordgreg003&color=green) <br />
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Lordgreg003">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordgreg003&hide=html,css,scss,blade,hack,less&title_color=ffffff&text_color=3498db&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/Lordgreg003"><img src="https://github-readme-stats.vercel.app/api?username=Lordgreg003&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Greg's GitHub stats" /></a>
 
 <br>
 <br>
