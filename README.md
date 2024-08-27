@@ -66,6 +66,9 @@ src="https://img.shields.io/github/followers/Lordgreg003?logo=github&style=for-t
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordgreg003&hide=html,css,scss,blade,hack,less&title_color=ffffff&text_color=3498db&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/Lordgreg003"><img src="https://github-readme-stats.vercel.app/api?username=Lordgreg003&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Greg's GitHub stats" /></a>
 
 <br>
