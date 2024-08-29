@@ -37,9 +37,10 @@ src="https://img.shields.io/github/followers/Lordgreg003?logo=github&style=for-t
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db)
+
+<!-- ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3498db) -->
+<!-- ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db) -->
+<!-- ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db) -->
 
 <!-- ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3498db) -->
 
